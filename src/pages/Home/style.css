@@ -1,0 +1,39 @@
+.page {
+   
+    background-color: #220c2b;
+    color: #fdf7ff;
+}
+
+.header {
+    background-color: #341242;
+    width: 100%;
+    position: fixed;
+}
+
+.toolbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+    padding: 0px 24px;
+}
+
+.main {
+    height: 100vh;
+    display: flex;
+    width: 1200px;
+    margin: 0 auto;
+    padding: 100px 0px;
+}
+
+.navbar {
+    background-color: #341242;
+    width: 350px;
+    padding: 24px;
+}
+
+.feed {
+    background-color: #341242;
+    width: 100%;
+    padding: 24px;
+}
